@@ -1,12 +1,5 @@
 /**
- * Dispose of the system resources used by this graphics context.
- * The Graphics context cannot be used after being disposed of.
- * While the finalization process of the garbage collector will
- * also dispose of the same system resources, due to the number
- * of Graphics objects that can be created in short time frames
- * it is preferable to manually free the associated resources
- * using this method rather than to rely on a finalization
- * process which may not happen for a long period of time.
+ * This is our is 247 Project
  * <p>
  * Graphics objects which are provided as arguments to the paint
  * and update methods of Components are automatically disposed
